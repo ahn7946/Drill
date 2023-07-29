@@ -28,5 +28,5 @@ int main()
 		printf("%d\n", testArray[N - 1]); // N번째로 큰 값 출력
 
 		testTimes++;
-	} while (testTimes < testCase); // N회 시행
+	} while (testTimes < testCase);
 }
